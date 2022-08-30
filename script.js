@@ -32,3 +32,5 @@ if (forma === 'quadrado') {
 }
 
 console.log(area);
+
+//demonstração
