@@ -1,6 +1,6 @@
 // Função simples, usamos o template string para nos retornar um texto onde
 //se encontra o dado ${nome};
-// Só precisamos determinar uma variável para nome e retornar com um .log o resultado.
+// Só precisamos determinar um valor para nome e retornar com um .log o resultado.
 
 function apresentar(nome) {
     return `Meu nome é ${nome}`;
@@ -16,7 +16,7 @@ function apresentar(nome) {
 // *Não precisamos declarar o return, pois é uma função de uma linha.
 
 
-const apresentarArrow = nome => `Meu nome é ${nome}`;   // Exemplo 1 - String
+const apresentar = nome => `Meu nome é ${nome}`;   // Exemplo 1 - String
 const soma = (num1, num2) => num1 + num2;               // Exemplo 2 - Soma
 
 // - Arrow function com + de 1 linha de instrução
