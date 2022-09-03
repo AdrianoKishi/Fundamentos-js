@@ -23,3 +23,5 @@ console.log(numero === texto);
 // typeof -> Usamos para descobrir o tipo de dado
 console.log(typeof numero); // type number
 console.log(typeof texto);  // type string
+
+//(teste)
