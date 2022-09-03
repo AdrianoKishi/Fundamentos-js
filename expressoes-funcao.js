@@ -1,4 +1,4 @@
-// - Expressão de função
+// - Expressão de função ------------------------------------------------------------------
 
 // Podemos declarar uma função da seguinte maneira:
 // *Uma maneira mais simples de escrever uma função;
