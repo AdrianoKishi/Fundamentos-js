@@ -1,3 +1,5 @@
+// - Booleanos verdadeiros e falsos --------------------------
+
 // boolean
 const usuarioLogado = true;
 const contaPaga = false;
